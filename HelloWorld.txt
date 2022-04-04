@@ -4,3 +4,4 @@
 testss seete:
 test 0 20 2 2
 test SSH pull
+test SSH Push
